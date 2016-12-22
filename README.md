@@ -30,3 +30,7 @@ Results in a block UI with wait of 1-2 seconds for each action.
 ## responsiveness
 
 The system does not respond, sometimes waiting more than 1-2 seconds for every single click and action.
+
+## Board random behaviour
+
+Clicking on the Web board randomely opens either the kanban view or the backlog view
