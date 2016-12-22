@@ -21,13 +21,13 @@ There is always a "CREATE" botton hovering on top, which I should persume always
 
 ## Create issue #2
 
-Creating issue shoves the issue to backlog. Forcing one to go to the backlog, dig the issue, drag it back to current. Than switch to kanban board and begin working.
+Creating issue shoves the issue to backlog. Forcing one to go to the backlog, dig the issue, drag it back to current. Then switch to kanban board and begin working.
 
 ## Moving a ticket 
 
 Results in a block UI with wait of 1-2 seconds for each action.
 
-## responsiveness
+## Responsiveness
 
 The system does not respond, sometimes waiting more than 1-2 seconds for every single click and action.
 
