@@ -2,7 +2,7 @@
 My issues with JIRA
 
 ## Notifications
-Notification system uses email more absuively than the worst free to play app on mobile. 
+Notification system abuses email more than the worst free to play app on mobile. 
 
 Overflow in number of notifications, often more than 30 notifications in one day.
 
